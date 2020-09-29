@@ -2,16 +2,16 @@ title:              IFPT - Independência Financeira em Portugal
 subtitle:           Independência Financeira em Portugal
 email:              indepfinanceiraemportugal@gmail.com
 description:        Um blog para quem procure alcançar independência financeira tal como nós
-author:             IFPT20
+author:             IFPT, Catarina Pinto e João Vidigal
 #baseurl:            "IFPT20.github.io"
 url:                "https://IFPT20.github.io"
 
 # Social Profiles
-twitter_username:
-github_username:
-facebook_username:
-instagram_username:  
-linkedin_username:
+twitter_username: IFPT
+github_username:  IFPT
+facebook_username:  IFPT
+instagram_username:  IFPT
+linkedin_username:  IFPT
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
