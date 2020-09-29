@@ -4,7 +4,6 @@ layout: default
 
 <!-- Page Header -->
 {% if page.background %}
-{% if page.description %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
   {% else %}
   <header class="masthead">
@@ -19,6 +18,7 @@ layout: default
             {% if site.description %}
             <span class="subheading">{{ site.description }}</span>
             {% endif %}
+            <span>Photo by <a href="https://unsplash.com/@runningvita?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vita Marija Murenaite</a> on <a href="https://unsplash.com/s/photos/portugal?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
           </div>
         </div>
       </div>
