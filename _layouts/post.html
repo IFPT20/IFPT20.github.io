@@ -22,13 +22,13 @@ layout: default
               on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
               content=page.content %}
             </span>
+            <div id="content">
+                <div class="bottomright"><p style="color:#FFFFFF">{{ page.caption }}</p></div>
+          </div>
           </div>
         </div>
       </div>
     </div>
-          <div id="content">
-                <div class="bottomright"><p style="color:#FFFFFF">{{ page.caption }}</p></div>
-          </div>
   </header>
 
   <div class="container">
